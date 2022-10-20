@@ -221,10 +221,10 @@
         font-family: 'Roboto';
     }
     .format-table .first {
-        width: 220px;
+        width: 420px;
     }
     .format-table .second, .format-table .third {
-        width: 260px;
+        width: 500px;
     }
 
     .learn {
